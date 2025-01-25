@@ -1,5 +1,6 @@
 # SQL for Data Analysis
-This is the repository for the LinkedIn Learning course SQL for Data Analysis. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course SQL for Data Analysis. The full course is available from [LinkedIn Learning][lil-course-url]. 
+Started:25/01/2025
 
 ![SQL for Data Analysis][lil-thumbnail-url] 
 
